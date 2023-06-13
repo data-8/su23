@@ -1,7 +1,7 @@
 ---
 name: Dana Benedicto
 pronouns: she/her
-role: Instructor
+role: Reader
 email: dbenedicto@berkeley.edu
 photo: /staff/dana.jpg
 #office-hours: TBA
