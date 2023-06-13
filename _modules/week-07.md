@@ -3,21 +3,34 @@ title: Week 7
 class: Berkeley
 ---
 
-Feb 27
-: **17**{: .label} Comparing Distributions
-  : [Slides](https://docs.google.com/presentation/d/1fkkRoXyOPDbCqw9d7GwFd4o7-djQ1i4ZafTfKi_-5c0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec17.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec17.html)  &#8226; [Video](https://youtu.be/L1wTDK6oc4M)
-: *Reading:* [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)
-: **Lab**{: .label .label-lab} [Lab 06: Assessing Models](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab06%2Flab06.ipynb&branch=main) (Due 3/3)
-  : [Lab 06 Worksheet](https://drive.google.com/file/d/16ZCZGJt621oyDEDQmVTDMaRTPhxAifwy/view?usp=sharing)
+M Jul 31
+: **28**{: .label} Classification
+: *Reading:* [17](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html)
+: **Lab**{: .label .label-lab} Lab 11: Climate Part 2
 
-Mar 1
-: **18**{: .label} Decisions and Uncertainty
-  : [Slides](https://docs.google.com/presentation/d/1k1Qc2_sPXeweSOsC7C5OSTXGKHeVHCYjyVdUzxb8l80/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec18.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec18.html)  &#8226; [Video](https://youtu.be/nwAz5hVhn3g)
-: *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
-Mar 3
-: **19**{: .label} A/B Testing
-  : [Slides](https://docs.google.com/presentation/d/12AOQ6u5OVijg_9VGOfyPEhkJTqjKuZDbPMfu-q-P7L0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec19.ipynb&branch=main) 
-  &#8226; [Demos (HTML Only)](assets/demo_html/lec19.html)  &#8226; [Video](https://youtu.be/qDcMWGABSsU)
-: *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
-: **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main) (Due 3/8)
+T Aug 1
+: **29**{: .label} Classifiers
+: *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
+<!-- : *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) -->
+: **Homework**{: .label .label-homework} Homework 11 (Due 8/4)
+<!-- : **Lab**{: .label .label-lab} [Lab 01: Expressions]() -->
+
+
+W Aug 2
+: **30**{: .label} Updating Probabilities
+: *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
+<!-- : [Slides](https://docs.google.com/presentation/d/1BzpNbGideL_wNSIO4Y1F4cBoW5mBeEiNvgcw0C0V7nM/edit?usp=sharing) &#8226; [Video](https://youtu.be/z72DoVmy3CM) -->
+: **Lab**{: .label .label-lab}  Lab 12: Regression
+: **Project**{: .label .label-project} Project 2: Classifying Movies (Due Wed 8/9; Checkpoint Mon 8/7)
+
+R Aug 3
+: **31**{: .label} Case Study
+<!-- : [Slides](https://docs.google.com/presentation/d/1snWPXPztmlEqzEI8VprXOgXM9kbxu2C3r38y7IXpSRA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec03.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec03.html)  &#8226; [Video](https://youtu.be/cDYG88h4f1c) -->
+<!-- : **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=tree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab02%2Flab02.ipynb&branch=main) (Due 1/27) -->
+<!-- : [Lab 02 Worksheet](https://drive.google.com/file/d/1PgKza-KKfduH_qBg3cK-tK07jTf2DMBM/view?usp=sharing) -->
+
+F Aug 4
+: **32**{: .label} Case Study
+<!-- : [Slides](https://docs.google.com/presentation/d/1S8bz_O13kTw8nHXGAI0S7VJ6-BBXMYT5W6behtgkIxM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec04.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec04.html) &#8226; [Video](https://youtu.be/Mk5sFLu7G4o) -->
+: **Homework**{: .label .label-homework} Homework 09 (Due 8/1)

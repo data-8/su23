@@ -3,18 +3,27 @@ title: Week 8
 class: Berkeley
 ---
 
-Mar 6
-: **20**{: .label} Causality
-  : [Slides](https://docs.google.com/presentation/d/1CgqXLh7lvG1SGIlA6OS9_aqfIXoj1mIw_aGYQBS0ppE/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec20.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec20.html)  &#8226; [Video](https://youtu.be/mwgoCJZ-7XE)
-: *Reading:* [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)
-  : [Midterm Review Worksheet](https://drive.google.com/file/d/1qA8WIMi9pxyUjYtHg8khvH8_QZSZLSvS/view?usp=sharing)
+M Aug 7
+: **33**{: .label} Case Study/Review
+: **Lab**{: .label .label-lab} Lab 13: Conditional Probability
 
-Mar 8
-: **21**{: .label} Examples
-  : [Slides](https://docs.google.com/presentation/d/1QUwanUAwcssus8gXZkmVBOvcqoGahXWWm3BmVrohj_0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec21.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec21.html) &#8226; [Video](https://youtu.be/kYVXoDq7aEg)
-: *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
-Mar 10
-: **22**{: .label} Midterm Review
-  : [Slides](https://docs.google.com/presentation/d/1yxgcFzSXBiIQkZwLzMBD6OYzzhu7SQ0HlL2CIitRf9I/edit?usp=sharing) &#8226; [Video](https://youtu.be/B9ieo8iGHvQ)
-: **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
+T Aug 8
+: **34**{: .label} Review
+<!-- : *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html) -->
+<!-- : **Lab**{: .label .label-lab} [Lab 01: Expressions]() -->
+
+
+W Aug 9
+: **35**{: .label} Review
+<!-- : [Slides](https://docs.google.com/presentation/d/1BzpNbGideL_wNSIO4Y1F4cBoW5mBeEiNvgcw0C0V7nM/edit?usp=sharing) &#8226; [Video](https://youtu.be/z72DoVmy3CM) -->
+: **Lab**{: .label .label-lab}  Final Review Lab
+
+R Aug 10
+: **36**{: .label} Conclusion/Panel
+<!-- : [Slides](https://docs.google.com/presentation/d/1snWPXPztmlEqzEI8VprXOgXM9kbxu2C3r38y7IXpSRA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec03.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec03.html)  &#8226; [Video](https://youtu.be/cDYG88h4f1c) -->
+<!-- : **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=tree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab02%2Flab02.ipynb&branch=main) (Due 1/27) -->
+<!-- : [Lab 02 Worksheet](https://drive.google.com/file/d/1PgKza-KKfduH_qBg3cK-tK07jTf2DMBM/view?usp=sharing) -->
+
+F Aug 11
+: **Exam**{: .label .label-exam} Final Exam (10 AM - 12PM)
