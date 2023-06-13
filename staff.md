@@ -15,7 +15,7 @@ description: Data 8 Fall 2022 Staff
 {% endfor %}
 </div>
 
-## Lead GSIs
+## Lead TAs
 _All office hours are held in-person in Warren 101 unless otherwise specified_
 
 {% assign leads = site.staffers | where: 'role', 'Lead GSI' %}
@@ -25,7 +25,7 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% endfor %}
 </div>
 
-## Teaching Assistants (GSIs)
+## Teaching Assistants
 _All office hours are held in-person in Warren 101 unless otherwise specified_
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'GSI' %}
