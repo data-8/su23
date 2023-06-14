@@ -14,7 +14,7 @@ June 20
 : _Reading:_ [1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html), [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)
 : **Homework**{: .label .label-homework} Homework 01 (Due 6/23)
 
-<!-- : **Lab**{: .label .label-lab} [Lab 01: Expressions]() -->
+: **Lab**{: .label .label-lab} [Lab 01: Expressions]()
 
 June 21
 : **2**{: .label} Cause and Effect
