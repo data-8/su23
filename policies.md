@@ -31,7 +31,7 @@ Our primary text is an online book called [Computational and Inferential Thinkin
 The computing platform for the course is hosted at [data8.datahub.berkeley.edu](https://data8.datahub.berkeley.edu/). Students find it convenient to use their own computer for the course. If you do not have adequate access to a personal computer, we can help you borrow a machine; please contact data8@berkeley.edu.
 
 ### Support
-You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/34576/discussion/). We will also hold [in-person and virtual office hours](../officehours/) that offer drop-in help on assignments and course material.
+You are not alone in this course; the staff and instructors are here to support you as you learn the material. It's expected that some aspects of the course will take time to master, and the best way to master challenging material is to ask questions. For questions, use [Ed](https://edstem.org/us/courses/40189/discussion/). We will also hold [in-person and a limited number of virtual office hours](../officehours/) that offer drop-in help on assignments and course material.
 
 Your lab TA will be your main point of contact for all course related questions/grade clarifications. The TAs are here to support you so please lean on your lab TA if you need more support in the class or have any questions/concerns.
 
@@ -40,10 +40,10 @@ Small-group tutoring sessions will be available for students in need of addition
 ## Course Components
 
 ### Live Lecture
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150; students may also attend live lectures remotely. Recordings of these sessions will be provided, but students are highly encouraged to attend in real time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held **every Monday-Thursday from 10:10am-11am, and on Friday from 10:10am-12pm in Dwinelle 155**; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website.
 
 ### Labs
-**Spring 2023 lab policies are the same as Fall 2022 lab policies, but differ from lab policies from previous semesters. Read this instead of asking former students how labs work.**
+<!-- **Summer 2023 lab policies are the same as Fall 2022 lab policies, but differ from lab policies from previous semesters. Read this instead of asking former students how labs work.**
 
 Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be **released on Monday night each week**.
 
@@ -73,35 +73,35 @@ Mega lab sessions will be **webcast** and **recorded**.
 
 First-year students and students without prior programming experience are strongly encouraged to choose a regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn.
 
-Both options are meant to be great. Mega lab was first piloted last semester and received positive feedback from students. We've designed mega lab to appeal to students who learn well from large-format lectures, working independently, and coming to drop-in office hours when they need help. But the regular lab format has clear advantages for students who wish to work with others and get to know the course staff: a guarantee that lab will take exactly 2 hours each week, a dedicated lab GSI, and the peer learning that comes with regularly attending a small weekly section.
+Both options are meant to be great. Mega lab was first piloted last semester and received positive feedback from students. We've designed mega lab to appeal to students who learn well from large-format lectures, working independently, and coming to drop-in office hours when they need help. But the regular lab format has clear advantages for students who wish to work with others and get to know the course staff: a guarantee that lab will take exactly 2 hours each week, a dedicated lab GSI, and the peer learning that comes with regularly attending a small weekly section. -->
 
 ### Homework and Projects
 
-Weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the [Learning Cooperatively](#learning-cooperatively) section below.
+Bi-weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the [Learning Cooperatively](#learning-cooperatively) section below.
 
-Homeworks will be **released on Thursday and due the following Wednesday night**.
+Homeworks will be **released on Tuesday and Friday, and are due that same Friday and the following Tuesday night, respectively**.
 
-There are 3 projects throughout the semester. A **checkpoint** must be reached by the following Friday after the project is released, and the whole project is **due by the following Friday after the checkpoint**.
+Data science is about analyzing real-world data sets, and so you will also complete two projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score.
 
 If you submit a homework or project 24 hours before the deadline or earlier, you will receive 5 bonus points on that assignment.
 
-Data science is about analyzing real-world data sets, and so you will also complete three projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score.
-
 ### Exams
-The midterm exam will be held on **Friday, March 10 from 7-9pm PT**. Please note the date and time carefully.
+The midterm exam will be held on **Friday, July 14 from 10am-12pm PT**. Please note the date and time carefully.
 
-The final exam is required for a passing grade, and will be held on **Tuesday, May 9 from 3-6pm PT**.
+The final exam is required for a passing grade, and will be held on **Friday, August 11 from 10am-12pm PT**.
 
-There will be one alternate exam for the midterm and the final exam, for those with exam conflicts. The alternate midterm exam will take place **online 8-10AM PT on Saturday, March 11** and the alternate final exam will take place **online 7-10PM PT on Tuesday, May 9**. If you cannot make either the regular or alternative times, please contact data8@berkeley.edu immediately. The regular midterm and final exams will be in-person. 
+There will be **no alternate exams** for the midterm and the final exam for those with exam conflicts. If you have exam accommodations on file with the DSP office, they will be taken into account for both the midterm and final exams.
+
 
 ## Grades
-Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (25 / 3)% = 8.3% of your grade.
+Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 2 projects, so each project is worth (20 / 2)% = 10% of your grade.
 
 | **Activity** | **Grade** |
-| Lab Credit | 10% |
+| Attendance | 2% |
+| Lab Credit | 8% |
 | Homeworks | 20% |
-| Projects | 25% |
-| Midterm | 15% |
+| Projects | 20% |
+| Midterm | 20% |
 | Final | 30% |
 
 In past semesters of Data 8, more than 40% of the students received grades in the A+/A/A- range and more than 35% received grades in the B+/B/B- range.
@@ -111,13 +111,13 @@ In past semesters of Data 8, more than 40% of the students received grades in th
 This semester, we will use **grade bins** to determine the **lowest possible letter grade** based on final composite scores (where each grade component is weighted according to above table). While we will not raise these bins, **we may lower them**. The table below contains the grade bins for this semester. For example, final composite scores between 80% (inclusive) and 90% (exclusive) will receive grades of ***at least*** B+/B/B-. 
 
 | **Composite Score (%) Range** | **Grade Range** |
-| [90, 100] | A |
-| [80, 90) | B |
-| [65, 80) | C |
+| [90, 100] | A+/A/A- |
+| [80, 90) | B+/B/B- |
+| [65, 80) | C+/C/C- |
 
 ### Regrades
 
-Grades for Homeworks, Projects, and Labs will be posted on Gradescope about 1 week after the assignment’s due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay in reviewing your work.
+Grades for Homeworks, Projects, and Labs will be posted on Gradescope after the assignment’s due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay in reviewing your work.
 
 For the midterm exam, there will be a regrade request submission window. Please review the solutions and common mistakes before submitting a regrade request. Requests where a rubric item was incorrectly selected or not selected will be reviewed, but any regrade requests that ask to change the rubric or for partial credit will be ignored.
 
@@ -127,14 +127,15 @@ For the midterm exam, there will be a regrade request submission window. Please 
 All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1SGK6B7b1VGChPvCNKyIcdt02g7l-j8Dd/view?usp=sharing) for submitting assignments.
 
 ### Late Submission
-**The deadline for all assignments in this course is 11 PM PST**. Assignments submitted **less than an hour** after the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**.  Instructions on how to request an assignment extension are on the [accommodations page](../accommodations/).
+**The deadline for all assignments in this course is 11 PM PT**. Assignments submitted **less than an hour** after the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**.  Instructions on how to request an assignment extension are on the [accommodations page](../accommodations/).
 
-Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade. If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
+**Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade.** If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
 
 Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer than 24 hours after the deadline will receive 2/3 credit, and projects submitted between 24 and 48 hours after the deadline will receive 1/3 credit. Projects submitted 48 hours or more after the deadline will receive no credit.
 
 ### Assignment Extensions
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/czM3MD7tch3UDP9Z7). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads. 
+We understand that life happens and want to provide you with the support you need. However, due to the fast pace nature of the summer offering, **we are unable to offer assignment extensions.** However, keep in mind that we are offering two homework and two lab drops. If you encounter unexpected extenuating circumstances or emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations.
+
 
 ### Learning Cooperatively
 We encourage you to discuss course content with your friends and classmates as you are working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally.
