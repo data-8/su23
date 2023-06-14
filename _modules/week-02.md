@@ -3,36 +3,42 @@ title: Week 2
 class: Berkeley
 ---
 
-M Jun 26 
+June 26
 : **5**{: .label} Distributions/Charts
-: *Reading:* [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
+: _Reading:_ [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 : **Lab**{: .label .label-lab} Lab 03: Data Types, Creating & Extending Tables
 
-
-T Jun 27
+June 27
 : **6**{: .label} Histograms
-: *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
+: _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Homework**{: .label .label-homework} Homework 03 (Due 6/30)
+
 <!-- : **Lab**{: .label .label-lab} [Lab 01: Expressions]() -->
 
+June 28
+: **7**{: .label} Functions
 
-W Jun 28
-: **7**{: .label} Functions	
 <!-- : [Slides](https://docs.google.com/presentation/d/1BzpNbGideL_wNSIO4Y1F4cBoW5mBeEiNvgcw0C0V7nM/edit?usp=sharing) &#8226; [Video](https://youtu.be/z72DoVmy3CM) -->
-: *Reading:* [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
+
+: _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab**{: .label .label-lab} Lab 04: Functions & Visualizations
 
-R Jun 29
-: **8**{: .label} Conditionals and Iteration	
+June 29
+: **8**{: .label} Conditionals and Iteration
+
 <!-- : [Slides](https://docs.google.com/presentation/d/1snWPXPztmlEqzEI8VprXOgXM9kbxu2C3r38y7IXpSRA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec03.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec03.html)  &#8226; [Video](https://youtu.be/cDYG88h4f1c) -->
-: *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
+
+: _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
+
 <!-- : **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=tree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab02%2Flab02.ipynb&branch=main) (Due 1/27) -->
 <!-- : [Lab 02 Worksheet](https://drive.google.com/file/d/1PgKza-KKfduH_qBg3cK-tK07jTf2DMBM/view?usp=sharing) -->
 
-F Jun 30
+June 30
 : **9**{: .label} Groups, Pivots, Joins
+
 <!-- : [Slides](https://docs.google.com/presentation/d/1S8bz_O13kTw8nHXGAI0S7VJ6-BBXMYT5W6behtgkIxM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec04.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec04.html) &#8226; [Video](https://youtu.be/Mk5sFLu7G4o) -->
-: *Reading:* [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html), [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html), [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
+
+: _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html), [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html), [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} Homework 04 (Due 7/4)
 : **Project**{: .label .label-project} Project 1: World Progress (Due Fri 7/7; Checkpoint Wed 07/5)
 
