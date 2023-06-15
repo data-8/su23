@@ -51,13 +51,11 @@ Live lectures will be held Monday-Thursday from 10:10am-11am, and on Friday from
 
 ### Labs
 
-This course has two 2-hour labs per week. All students are required to attend the first lab section, on 7/20. If you are unable to attend the first lab section, please reach out to your assigned TA once you receive your section assignments.
+This course has two 2-hour labs per week, held on Mondays and Wednesdays. All students are required to attend the first lab section, on 7/20. If you are unable to attend the first lab section, please reach out to your assigned TA once you receive your section assignment.
 
-Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be **released on Friday and Monday night each week**, and **due the following Monday and Wednesday, respectively**. See below for the submission details.
+Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be **released on Friday and Monday night each week**, and **due the following Monday and Wednesday, respectively**.
 
-#### Lab Credit
-
-This summer, we are offering **two lab formats**: an attendance-based 30-student option called **regular lab** and an early submission-based option called **self-service lab**. The latter self-service option is only open to students who have taken both a statistics and computer science course at the university level. Additional details for enrolling in the self-service lab option will be released at the start of the semester on Ed.
+This summer, we are offering **two lab formats**: an attendance-based 30-student option called **regular lab** and an early submission-based option called **self-service lab**. The latter self-service option is only open to students who have taken both a statistics and computer science course at the university level. Additional details for enrolling in the self-service lab option will be released towards the start of the semester.
 
 **Regular Lab**
 
@@ -71,21 +69,15 @@ Regular lab sessions will **not** be recorded and are only offered in-person.
 
 To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Therefore, we expect the number of students enrolled in the self-service lab to be low.
 
-Students in the self-service lab have the option to complete the lab on your own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. *No partial credit will be awarded.* However, students enrolled in the self-service lab are also assigned a lab section, and may attend if they wish. By choosing to attend their assigned lab section, students enrolled in the self-service lab should refer to the **regular lab** attendance credit above.
+Students in the self-service lab have the option to complete the lab on your own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._ Students enrolled in the self-service lab are also assigned a lab section, and may attend if they wish. By choosing to attend their assigned lab section for some particular week, students enrolled in the self-service lab should follow the regular lab policy to recieve credit for that week (outlined above). In other words, they will not need to submit the lab assignment by 10am on the due date -- rather, they can simply attend lab and get checked off.
 
-Please note that by submitting early and not attending the weekly lab sections, you are missing out on a vital discussion worksheet as well as additional resources (exam prep and personalized support). Therefore, we strongly recommend you choose option (1) and attend synchronous lab sections. In addition, extra credit EPA (described in the Grades category below) can be earned through your attendance and participation in lab.
-
-**Choosing a Lab Format**
-
-First-year students and students without prior programming experience are strongly encouraged to choose a regular lab. Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn.
-
-Both options are meant to be great. Mega lab was first piloted last semester and received positive feedback from students. We've designed mega lab to appeal to students who learn well from large-format lectures, working independently, and coming to drop-in office hours when they need help. But the regular lab format has clear advantages for students who wish to work with others and get to know the course staff: a guarantee that lab will take exactly 2 hours each week, a dedicated lab GSI, and the peer learning that comes with regularly attending a small weekly section. -->
+Please note that by submitting early and not attending the weekly lab sections, you are missing out on a vital discussion worksheet as well as additional resources (exam prep and personalized support). Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn. Therefore, we strongly recommend you choose option (1) and attend synchronous lab sections. In addition, extra credit EPA (described in the Grades category below) can be earned through your attendance and participation in lab.
 
 ### Homework and Projects
 
 Bi-weekly homework assignments are a required part of the course. You must complete and submit your homework independently, but you are allowed to discuss problems with other students and course staff. See the [Learning Cooperatively](#learning-cooperatively) section below.
 
-Homeworks will be **released on Tuesday and Friday, and are due that same Friday and the following Tuesday night, respectively**.
+Homeworks will be **released on Tuesday and Friday**, and are **due that same Friday and the following Tuesday night, respectively**.
 
 Data science is about analyzing real-world data sets, and so you will also complete two projects involving real data. On each project, you may work with a single partner; your partner must be from the lab you enrolled in. Both partners will receive the same score.
 
@@ -104,12 +96,12 @@ There will be **no alternate exams** for the midterm and the final exam for thos
 Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 2 projects, so each project is worth (20 / 2)% = 10% of your grade.
 
 | **Activity** | **Grade** |
-| Attendance | 2% |
-| Lab Credit | 8% |
+| Lab Credit | 10% |
 | Homeworks | 20% |
 | Projects | 20% |
 | Midterm | 20% |
 | Final | 30% |
+| [Extra Credit] EPA| 2% |
 
 In past semesters of Data 8, more than 40% of the students received grades in the A+/A/A- range and more than 35% received grades in the B+/B/B- range.
 
