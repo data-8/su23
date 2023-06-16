@@ -6,7 +6,7 @@ class: Berkeley
 July 10
 : **14**{: .label} A/B Testing
 : _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
-: **Lab**{: .label .label-lab} Lab 07: A/B Testing (Due 7/12)
+: **Lab**{: .label .label-lab} Lab 06: Assessing Models
 
 July 11
 : **15**{: .label} Causality
@@ -14,8 +14,8 @@ July 11
 
 July 12
 : **16**{: .label} Examples
-
 : _Reading:_ [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
+: **Lab**{: .label .label-lab} Lab 07: A/B Testing
 
 July 13
 : **17**{: .label} Midterm Review
