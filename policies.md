@@ -105,7 +105,7 @@ Grades will be assigned using the following weighted components. Every assignmen
 
 In past semesters of Data 8, more than 40% of the students received grades in the A+/A/A- range and more than 35% received grades in the B+/B/B- range.
 
-### Extra Credit: Engagement, Participation and Attendance (EPA) - Extra Credit
+### Extra Credit: Engagement, Participation and Attendance (EPA)
 
 Extra credit participation points were created to encourage people to be good academic citizens, in a way that traditional grades could not capture. This can help boost you over a grade boundary if you’re close to one. Scoring is confidential, and your score will not be shared - please do not ask staff members any questions about this.
 
