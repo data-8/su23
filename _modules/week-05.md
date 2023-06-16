@@ -16,7 +16,7 @@ July 18
 July 19
 : **20**{: .label} Center and Spread
 : _Reading:_ [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
-: **Lab**{: .label .label-lab} Confidence Intervals
+: **Lab**{: .label .label-lab} Lab 08: Confidence Intervals
 
 
 July 20
@@ -28,7 +28,6 @@ July 21
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html), [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 
 : **Homework**{: .label .label-homework} Homework 08 (Due 7/25)
-: **Lab**{: .label .label-lab} Lab 08: Sample Means (Due 7/24)
 
 
 <!-- : [Slides](https://docs.google.com/presentation/d/1rNihFapJo0-TX1sDt433wvLPE3G0YpjK_No1yu6uvEc/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec05_with_soln.ipynb&branch=main) &#8226; [Blank Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec05.ipynb&branch=main) &#8226; [Demos (HTML Only)](assets/demo_html/lec05.html)  &#8226; [Video](https://youtu.be/YMhrI1-vEw0) -->

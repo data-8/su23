@@ -5,6 +5,7 @@ class: Berkeley
 
 August 7
 : **33**{: .label} Case Study/Review
+: **Lab**{: .label .label-lab} Lab 13: Conditional Probability
 
 August 8
 : **34**{: .label} Review
