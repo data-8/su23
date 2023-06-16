@@ -47,7 +47,7 @@ Small-group tutoring sessions will be available for students in need of addition
 
 ### Live Lecture
 
-Live lectures will be held on Monday to Thursday from 10:10am-11am, and on Friday from 10:10am-12pm in Dwinelle 155; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website.
+Live lectures will be held from Monday to Thursday from 10:10am-11am, and on Friday from 10:10am-12pm in Dwinelle 155; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website.
 
 ### Labs
 
