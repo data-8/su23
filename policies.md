@@ -144,7 +144,7 @@ Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer
 
 ### Assignment Extensions
 
-Due to the fast pace of the summer offering, **we are unable to offer assignment extensions for the vast majority of cases.** As mentioned above, you are provided two lab and homework drops for emergency situations that may come up. Only after using all your assignment drops, if you encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations. Note that you will be asked to provide supporting documentation, and these requests will be approved sparingly on a case-by-case basis.
+Due to the fast pace of the summer offering, **we are unable to offer assignment extensions for the vast majority of cases.** As mentioned above, you are provided two lab and homework drops for emergency situations that may come up. Only after using all your assignment drops, if you encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations. Note that you will be asked to provide supporting documentation, and these requests will be approved on a case-by-case basis.
 
 ### Learning Cooperatively
 
