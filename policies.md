@@ -15,7 +15,7 @@ description: >-
 {: .no_toc .text-delta }
 
 1. Table of contents
-  {:toc}
+   {:toc}
 
 ---
 
@@ -67,7 +67,7 @@ Regular lab sessions will **not** be recorded and are only offered in-person.
 
 **Self-service Lab**
 
-To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Additionally, you must have been enrolled at UC Berkeley for at least to semesters. This application will be released alongside the lab section preference form before the start of the term. *After this form closes, changes will not be allowed.*
+To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Additionally, you must have been enrolled at UC Berkeley for at least to semesters. This application will be released alongside the lab section preference form before the start of the term. _After this form closes, changes will not be allowed._
 
 Students in the self-service lab are expected to complete the lab on their own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._
 
@@ -144,7 +144,7 @@ Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer
 
 ### Assignment Extensions
 
-Due to the fast pace of the summer offering, **we are unable to offer assignment extensions.** As mentioned above, for these situation you are provided two lab and homework drops. If you encounter unexpected extenuating circumstances or emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations.
+Due to the fast pace of the summer offering, **we are unable to offer assignment extensions for the vast majority of cases.** As mentioned above, you are provided two lab and homework drops for emergency situations that may come up. Only after using all your assignment drops, if you encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations. Note that you will be asked to provide supporting documentation, and these requests will be approved sparingly on a case-by-case basis.
 
 ### Learning Cooperatively
 
