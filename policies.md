@@ -14,8 +14,8 @@ description: >-
 
 {: .no_toc .text-delta }
 
-1. TOC
-   {:toc}
+1. Table of contents
+  {:toc}
 
 ---
 
@@ -47,15 +47,15 @@ Small-group tutoring sessions will be available for students in need of addition
 
 ### Live Lecture
 
-Live lectures will be held Monday-Thursday from 10:10am-11am, and on Friday from 10:10am-12pm in Dwinelle 155; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Monday to Thursday from 10:10am-11am, and on Friday from 10:10am-12pm in Dwinelle 155; students are expected to attend live lectures synchronously due to the fast pace of the summer. Recordings of these sessions will be provided within 1-2 days of the lecture. Slides and lecture examples will be provided on the course website.
 
 ### Labs
 
-This course has two 2-hour labs per week, held on Mondays and Wednesdays. All students are required to attend the first lab section, on 7/20. If you are unable to attend the first lab section, please reach out to your assigned TA once you receive your section assignment.
+This course has two 2-hour labs per week, held on Mondays and Wednesdays. All students are required to attend the first lab section, on Wednesday 6/21. If you are unable to attend the first lab section, please reach out to your assigned TA once you receive your section assignment.
 
 Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be **released on Friday and Monday night each week**, and are **due the following Monday and Wednesday, respectively**.
 
-This summer, we are offering **two lab formats**: an attendance-based 30-student option called **regular lab** and an early submission-based option called **self-service lab**. The latter self-service option is only open to students who have taken both a statistics and computer science course at the university level. Additional details for enrolling in the self-service lab option will be released towards the start of the semester.
+This summer, we are offering **two lab formats**: an attendance-based 30-student option called **regular lab** and an early submission-based option called **self-service lab**. The latter self-service option is only open to continuously enrolled students (2+ semesters at UC Berkeley) who have sucessfully completed both a statistics and computer science course at the university level. Additional details for enrolling in the self-service lab option will be released towards the start of the semester. Note that once the lab section signup window closes, changes between regular and self-service lab will not be permitted.
 
 **Regular Lab**
 
@@ -67,9 +67,9 @@ Regular lab sessions will **not** be recorded and are only offered in-person.
 
 **Self-service Lab**
 
-To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Therefore, we expect the number of students enrolled in the self-service lab to be low.
+To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Additionally, you must have been enrolled at UC Berkeley for at least to semesters. This application will be released alongside the lab section preference form before the start of the term. *After this form closes, changes will not be allowed.*
 
-Students in the self-service lab have the option to complete the lab on their own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._ Students enrolled in the self-service lab are also assigned a lab section, and may attend if they wish. By choosing to attend their assigned lab section for some particular week, students enrolled in the self-service lab should follow the regular lab policy to recieve credit for that week (outlined above). In other words, they will not need to submit the lab assignment by 10am on the due date; they can simply attend lab and get checked off.
+Students in the self-service lab are expected to complete the lab on their own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._
 
 Please note that by not attending the weekly lab sections, you are missing out on a vital discussion worksheet as well as additional resources (exam prep and personalized support). Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn. Therefore, we strongly recommend you choose option (1) and attend synchronous lab sections. In addition, extra credit can be earned through your attendance and participation in lab (described in the Grades category below).
 
@@ -101,17 +101,15 @@ Grades will be assigned using the following weighted components. Every assignmen
 | Projects | 20% |
 | Midterm | 20% |
 | Final | 30% |
-| EPA| 2% [Extra Credit] |
+| EPA | 2% [Extra Credit] |
 
 In past semesters of Data 8, more than 40% of the students received grades in the A+/A/A- range and more than 35% received grades in the B+/B/B- range.
 
-### Engagement, Participation and Attendance (EPA) - Extra Credit
+### Extra Credit: Engagement, Participation and Attendance (EPA) - Extra Credit
 
-_Similar to other CS classes._
+Extra credit participation points were created to encourage people to be good academic citizens, in a way that traditional grades could not capture. This can help boost you over a grade boundary if you’re close to one. Scoring is confidential, and your score will not be shared - please do not ask staff members any questions about this.
 
-Participation points were created to encourage people to be good academic citizens, in a way that traditional grades could not capture. This can help boost you over a grade boundary if you’re close to one. Scoring is confidential, and your score will not be shared - please do not ask staff members any questions about this.
-
-You may demonstrate your engagement in Data 8 through attendance and participation during live lecture, lab section, office hours, and EdStem. For example, actively asking / answering questions during lecture will help you accumulate extra points in this category. Additionally, there are several ways to engage with the course staff: lab sections, tutoring sections, and office hours. At the end of the semester, your participation in these section activities will be scored according to attendance and engagement. The best way to score full points in this section is to attend your lab section, sign up for tutoring, and make sure your TA knows your name!
+You may demonstrate your engagement in Data 8 through attendance and participation during live lecture, lab section, office hours, and EdStem. For example, actively asking / answering questions during lecture will help you accumulate extra points in this category. Additionally, there are several ways to engage with the course staff: lab sections, tutoring sections, and office hours. At the end of the semester, your participation in these section activities will be scored according to attendance and engagement. The best way to score full points in this section is to attend your lab section/lecture, sign up for tutoring, and make sure your TA knows your name!
 
 The maximum number of extra credit percentage points you can accumulate throughout the semester is 2%.
 
@@ -138,15 +136,15 @@ All assignments (homework, labs, and projects) will be submitted on Gradescope. 
 
 ### Late Submission
 
-**The deadline for all assignments in this course is 11 PM PT**. Assignments submitted **less than an hour** after the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**. Instructions on how to request an assignment extension are on the [accommodations page](../accommodations/).
+**The deadline for all assignments in this course is 11 PM PT**. Assignments submitted **until 11:59 PM** on the day of the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**. Instructions on if you qualify, and how to request assignment extensions are on the [accommodations page](../accommodations/).
 
-**Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade.** If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
+We understand that life happens. For this reason, **your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade.** If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
 
 Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer than 24 hours after the deadline will receive 2/3 credit, and projects submitted between 24 and 48 hours after the deadline will receive 1/3 credit. Projects submitted 48 hours or more after the deadline will receive no credit.
 
 ### Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. However, due to the fast pace nature of the summer offering, **we are unable to offer assignment extensions.** However, keep in mind that we are offering two homework and two lab drops. If you encounter unexpected extenuating circumstances or emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations.
+Due to the fast pace of the summer offering, **we are unable to offer assignment extensions.** As mentioned above, for these situation you are provided two lab and homework drops. If you encounter unexpected extenuating circumstances or emergencies beyond your control, please fill out the [Extenuating Circumstances Form]() for possible accommodations.
 
 ### Learning Cooperatively
 
