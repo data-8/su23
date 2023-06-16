@@ -15,7 +15,7 @@ description: >-
 {: .no_toc .text-delta }
 
 1. Table of contents
-   {:toc}
+  {:toc}
 
 ---
 

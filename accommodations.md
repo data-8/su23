@@ -17,9 +17,9 @@ description: >-
 
 ---
 
-<!-- ## Assignment Extensions
+## Assignment Extensions
 
-We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out the [DATA 8 SP23 Extension Request](https://forms.gle/wWb2cPw7gZ64XzSX9) form. Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads. -->
+We understand that life happens. As stated on the [policies](./policies) page, students are given two homework and lab drops for precisely those situations. Unfortunately, we are unable to grant any additional assignment extensions due to the fast pace of the summer.  However, if you continue to encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form](). A course staff member will contact you and provide space for conversation, as well as to arrange accommodations if necessary. Students will be asked to provide supporting documentation. Note that these requests are approved on a case-by-case basis.
 
 ## DSP Accommodations
 
