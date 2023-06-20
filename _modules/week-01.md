@@ -8,7 +8,7 @@ June 19
 
 June 20
 : **1**{: .label} Introduction
-    :[Slides](https://docs.google.com/presentation/d/1C6FEMHHeuS3A2uqbitfYb-vOsgm1KSuCwQYc9FmfbgE/mobilepresent?slide=id.g610d9f86d0_0_5)&#8226;
+    : [Slides](https://docs.google.com/presentation/d/1C6FEMHHeuS3A2uqbitfYb-vOsgm1KSuCwQYc9FmfbgE/mobilepresent?slide=id.g610d9f86d0_0_5)&#8226;
 : _Reading:_ [1.1](https://inferentialthinking.com/chapters/01/1/intro.html), [1.2](https://inferentialthinking.com/chapters/01/2/why-data-science.html), [1.3](https://inferentialthinking.com/chapters/01/3/Plotting_the_Classics.html)
 : **Homework**{: .label .label-homework} Homework 01 (Due 6/23)
 
