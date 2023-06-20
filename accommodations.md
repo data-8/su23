@@ -19,7 +19,7 @@ description: >-
 
 ## Assignment Extensions
 
-We understand that life happens. As stated on the [policies](./policies) page, students are given two homework and lab drops for precisely those situations. Unfortunately, we are unable to grant any additional assignment extensions due to the fast pace of the summer.  However, if you continue to encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form](). A course staff member will contact you and provide space for conversation, as well as to arrange accommodations if necessary. Students will be asked to provide supporting documentation. Note that these requests are approved on a case-by-case basis.
+We understand that life happens. As stated on the [policies](./policies) page, students are given two homework and lab drops for precisely those situations. Unfortunately, we are unable to grant any additional assignment extensions due to the fast pace of the summer.  However, if you continue to encounter further emergencies beyond your control, please fill out the [Extenuating Circumstances Form](https://forms.gle/MGWHJqDamgpFsvWw9). A course staff member will contact you and provide space for conversation, as well as to arrange accommodations if necessary. Students will be asked to provide supporting documentation. Note that these requests are approved on a case-by-case basis.
 
 ## DSP Accommodations
 
