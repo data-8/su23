@@ -17,6 +17,7 @@ June 21
 : **2**{: .label} Cause and Effect
 : _Reading:_ [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
 : **Lab**{: .label .label-lab} [Lab 01: Expressions](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab01%2Flab01.ipynb&branch=main) (Due 6/21)
+    : [Lab 01 Worksheet](https://drive.google.com/file/d/1S9pg8LHFB_35u1YVkm55Jl6pF0oEiulK/view)
 
 June 22
 : **3**{: .label} Tables
