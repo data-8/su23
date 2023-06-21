@@ -69,7 +69,7 @@ Regular lab sessions will **not** be recorded and are only offered in-person.
 
 To enroll in the self-service lab, you must have taken both a statistics and computer science course at the university level. Additionally, you must have been enrolled at UC Berkeley for at least to semesters. This application will be released alongside the lab section preference form before the start of the term. _After this form closes, changes will not be allowed._
 
-Students in the self-service lab are expected to complete the lab on their own and submit the completed lab by 10am on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._
+Students in the self-service lab are expected to complete the lab on their own and submit the completed lab by 11:59 pm on the due date (Monday for labs released on Friday, and Wednesday for labs released on Monday). If you choose to submit early, you must finish the entire lab and pass all autograder tests (100% of tests passed) to receive credit. _No partial credit will be awarded._
 
 Please note that by not attending the weekly lab sections, you are missing out on a vital discussion worksheet as well as additional resources (exam prep and personalized support). Working on programming-based lab assignments in a small classroom with dedicated course staff available to help is a great way to learn. Therefore, we strongly recommend you choose option (1) and attend synchronous lab sections. In addition, extra credit can be earned through your attendance and participation in lab (described in the Grades category below).
 
