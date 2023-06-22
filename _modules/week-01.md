@@ -22,7 +22,7 @@ June 21
 
 June 22
 : **3**{: .label} Tables
-    : Slides &#8226; Video &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec03_empty.ipynb&branch=main)
+    : [Slides](https://docs.google.com/presentation/d/1xnd-QORU47wKhLGrkfFMgzdjapIhwyBlMpCeigMmgB0/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec03_empty.ipynb&branch=main)
 : _Reading:_ [3](https://inferentialthinking.com/chapters/03/programming-in-python.html)
 
 
