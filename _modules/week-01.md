@@ -26,7 +26,7 @@ June 22
 
 June 23
 : **4**{: .label} Data Types, Building Tables, Census
-: [Slides](https://docs.google.com/presentation/d/1wKnV2idzj8iwgrRU0tD_Zi5V8EogRlu9MechHmsev6s/edit?usp=sharing) &#8226; [Video]() &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec04_empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1wKnV2idzj8iwgrRU0tD_Zi5V8EogRlu9MechHmsev6s/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec04.ipynb&branch=main)
 : _Reading:_ [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html), [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
 : **Homework**{: .label .label-homework} Homework 02 (Due 6/27)
 
