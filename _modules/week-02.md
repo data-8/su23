@@ -6,7 +6,7 @@ class: Berkeley
 June 26
 : **5**{: .label} Distributions/Charts
 : _Reading:_ [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
-: **Lab**{: .label .label-lab} Lab 02: Table Operations
+: **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab02%2Flab02.ipynb&branch=main) (Due 6/26)
 
 June 27
 : **6**{: .label} Histograms
