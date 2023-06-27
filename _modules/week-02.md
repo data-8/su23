@@ -17,7 +17,7 @@ June 27
 June 28
 : **7**{: .label} Functions
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
-: **Lab**{: .label .label-lab} Lab 03: Data Types, Creating & Extending Tables
+: **Lab**{: .label .label-lab} [Lab 03: Data Types, Creating & Extending Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab03%2Flab03.ipynb&branch=main)
 
 June 29
 : **8**{: .label} Conditionals and Iteration
