@@ -10,8 +10,8 @@ June 26
 : **Lab**{: .label .label-lab} [Lab 02: Table Operations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab02%2Flab02.ipynb&branch=main) (Due 6/26)
 
 June 27
-: **6**{: .label} Histograms
-: [Slides](https://docs.google.com/presentation/d/1ckN-GjEL4LSu_iwTnBz7J6asangBrj_HxV3mg9l4yJE/edit?usp=sharing) &#8226; [Video]() &#8226; [Demo]()
+: **6**{: .label} Histograms 
+: [Slides](https://docs.google.com/presentation/d/1ckN-GjEL4LSu_iwTnBz7J6asangBrj_HxV3mg9l4yJE/edit?usp=sharing) &#8226; [Video]() &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec06_empty.ipynb&branch=main)
 : _Reading:_ [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
 : **Homework**{: .label .label-homework} Homework 03 (Due 6/30)
 
