@@ -20,6 +20,7 @@ June 28
 : [Slides](https://docs.google.com/presentation/d/18fNKEpGHjkvSUld88U74iZ876o7el_JyUUYhsDX3HdU/edit?usp=sharing) &#8226; [Video]() &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec07-empty.ipynb&branch=main)
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab**{: .label .label-lab} [Lab 03: Data Types, Creating & Extending Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab03%2Flab03.ipynb&branch=main) (Due 6/28)
+: [Lab 03: Worksheet](https://drive.google.com/drive/folders/1fYDv6ryOuqfoM-JzhYXf_Fmar99PLekw)
 
 June 29
 : **8**{: .label} Conditionals and Iteration
