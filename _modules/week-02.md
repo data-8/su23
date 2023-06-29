@@ -24,6 +24,7 @@ June 28
 
 June 29
 : **8**{: .label} Conditionals and Iteration
+: [Slides](https://docs.google.com/presentation/d/1_oLVKppwuKoX0vjUh8jYfkVrFWiHiXRofCFDqcq3r40/edit?usp=sharing) &#8226; [Video]() &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec8.ipynb&branch=main)
 : _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 
 June 30
