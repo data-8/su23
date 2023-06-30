@@ -29,6 +29,7 @@ June 29
 
 June 30
 : **9**{: .label} Groups, Pivots, Joins
+: [Slides](https://docs.google.com/presentation/d/1nvNDNUn1OlkEHKxoJ5x2HBvxYG4UpsGZpHTngRvSi_M/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec10-Copy1+%281%29.ipynb&branch=main)
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html), [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html), [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} Homework 04 (Due 7/4)
 : **Project**{: .label .label-project} Project 1: World Progress (Due Fri 7/7; Checkpoint Wed 07/5)
