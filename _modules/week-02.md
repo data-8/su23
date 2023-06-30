@@ -17,19 +17,19 @@ June 27
 
 June 28
 : **7**{: .label} Functions
-: [Slides](https://docs.google.com/presentation/d/18fNKEpGHjkvSUld88U74iZ876o7el_JyUUYhsDX3HdU/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec07-empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/18fNKEpGHjkvSUld88U74iZ876o7el_JyUUYhsDX3HdU/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec07-completed.ipynb&branch=main)
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
 : **Lab**{: .label .label-lab} [Lab 03: Data Types, Creating & Extending Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab03%2Flab03.ipynb&branch=main) (Due 6/28)
 : [Lab 03: Worksheet]()
 
 June 29
 : **8**{: .label} Conditionals and Iteration
-: [Slides](https://docs.google.com/presentation/d/1_oLVKppwuKoX0vjUh8jYfkVrFWiHiXRofCFDqcq3r40/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec8.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1_oLVKppwuKoX0vjUh8jYfkVrFWiHiXRofCFDqcq3r40/edit?usp=sharing) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec08-completed.ipynb&branch=main)
 : _Reading:_ [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 
 June 30
 : **9**{: .label} Groups, Pivots, Joins
-: [Slides](https://docs.google.com/presentation/d/1nvNDNUn1OlkEHKxoJ5x2HBvxYG4UpsGZpHTngRvSi_M/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Flec%2Flec10-Copy1+%281%29.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1nvNDNUn1OlkEHKxoJ5x2HBvxYG4UpsGZpHTngRvSi_M/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec09-completed.ipynb&branch=main)
 : _Reading:_ [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html), [8.2](https://inferentialthinking.com/chapters/08/2/Classifying_by_One_Variable.html), [8.3](https://inferentialthinking.com/chapters/08/3/Cross-Classifying_by_More_than_One_Variable.html), [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
 : **Homework**{: .label .label-homework} Homework 04 (Due 7/4)
 : **Project**{: .label .label-project} Project 1: World Progress (Due Fri 7/7; Checkpoint Wed 07/5)
