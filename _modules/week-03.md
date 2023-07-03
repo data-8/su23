@@ -5,6 +5,7 @@ class: Berkeley
 
 July 3
 : **10**{: .label} Chance
+: [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec10-empty.ipynb&branch=main)
 : _Reading:_ [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
 : **Lab**{: .label .label-lab} [Lab 04: Functions & Visualizations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab04%2Flab04.ipynb&branch=main) (Due 7/3)
 
