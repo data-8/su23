@@ -16,7 +16,7 @@ July 4
 July 5
 : **11**{: .label} Sampling
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
-: **Lab**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables
+: **Lab**{: .label .label-lab} [Lab 05: Conditional Statements, Iteration, Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab05%2Flab05.ipynb&branch=main) (Due 7/5)
 
 
 July 6
