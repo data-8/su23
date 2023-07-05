@@ -11,7 +11,7 @@ July 3
 
 July 4
 : **0**{: .label} Holiday: No class
-: **Homework**{: .label .label-homework} Homework 05 (Due 7/7)
+: **Homework**{: .label .label-homework} [Homework 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main) (Due 7/7)
 
 July 5
 : **11**{: .label} Sampling
