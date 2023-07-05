@@ -15,7 +15,7 @@ July 4
 
 July 5
 : **11**{: .label} Sampling
-: [Slides](https://docs.google.com/presentation/d/11tPW1a-4jx1Z6k_-sKqFNRnKltYmEAUclTW8jFRLuG4/edit#slide=id.g13b5def1dff_0_379) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec11-empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/11tPW1a-4jx1Z6k_-sKqFNRnKltYmEAUclTW8jFRLuG4/edit#slide=id.g13b5def1dff_0_379) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec11-completed.ipynb&branch=main)
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 : **Lab**{: .label .label-lab} [Lab 05: Conditional Statements, Iteration, Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab05%2Flab05.ipynb&branch=main) (Due 7/5)
 
