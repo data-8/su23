@@ -5,7 +5,7 @@ class: Berkeley
 
 July 3
 : **10**{: .label} Chance
-: [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec10-empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1oCe7yO_aWFzM6Wa2EkWMPovEgI_xvL_E16SEIVgbeN8/edit#slide=id.g13b11766dbc_0_145) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec10-empty.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
 : **Lab**{: .label .label-lab} [Lab 04: Functions & Visualizations](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab04%2Flab04.ipynb&branch=main) (Due 7/3)
 
@@ -15,6 +15,7 @@ July 4
 
 July 5
 : **11**{: .label} Sampling
+: [Slides](https://docs.google.com/presentation/d/11tPW1a-4jx1Z6k_-sKqFNRnKltYmEAUclTW8jFRLuG4/edit#slide=id.g13b5def1dff_0_379) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec11-empty.ipynb&branch=main)
 : _Reading:_ [9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html), [10](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)
 : **Lab**{: .label .label-lab} [Lab 05: Conditional Statements, Iteration, Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab05%2Flab05.ipynb&branch=main) (Due 7/5)
 
