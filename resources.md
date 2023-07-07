@@ -19,9 +19,6 @@ description: >-
 
 ## Materials
 
-### Student Materials Folder
-We will post student materials in [this folder]() throughout the semester.
-
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
 * [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing)
