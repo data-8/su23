@@ -20,7 +20,7 @@ description: >-
 ## Materials
 
 ### Student Materials Folder
-We will post student materials in [this folder](https://drive.google.com/drive/folders/1PHiNPaRfsNzf4ZD2qEI0EqXXE3k7N2Nu?usp=share_link) throughout the semester.
+We will post student materials in [this folder]() throughout the semester.
 
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
