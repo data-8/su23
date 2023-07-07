@@ -22,11 +22,12 @@ July 5
 
 July 6
 : **12**{: .label} Models
-: [Slides](https://docs.google.com/presentation/d/1xef28pno_-daCHad7q1YfVNHc6TQGk0u3k7r3Izex9U/edit#slide=id.g22edf60a1d4_0_39) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec12-empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1xef28pno_-daCHad7q1YfVNHc6TQGk0u3k7r3Izex9U/edit#slide=id.g22edf60a1d4_0_39) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec12-completed.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
 
 July 7
 : **13**{: .label} Comparing Distributions, Decisions/Uncertainty
+: [Slides](https://docs.google.com/presentation/d/1jmFq3q8zI33BkrwLJI_NX_2fuDj5CO4bA2B-O4eNCNo/edit) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec13-empty.ipynb&branch=main)
 : _Reading:_ [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html), [11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html), [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 : **Homework**{: .label .label-homework} Homework 06 (Due 7/11)
 
