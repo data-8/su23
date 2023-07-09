@@ -18,6 +18,7 @@ description: >-
 ---
 
 ## Materials
+The student materials can be found [here](https://drive.google.com/drive/u/1/folders/1pi9v2Q_nFxLWmYUEwYRfn5hzo9EEfckn).
 
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
