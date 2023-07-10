@@ -4,7 +4,8 @@ class: Berkeley
 ---
 
 July 10
-: **14**{: .label} A/B Testing
+: **14**{: .label} A/B Testing:
+: [Slides]() &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec14.ipynb&branch=main)
 : _Reading:_ [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 : **Lab**{: .label .label-lab} [Lab 06: Assessing Models](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab06%2Flab06.ipynb&branch=main) (Due 7/10)
 
