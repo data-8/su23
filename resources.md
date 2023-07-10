@@ -33,6 +33,7 @@ The student materials can be found [here](https://drive.google.com/drive/u/1/fol
 * [Table Function Visualizer](https://www.data8.org/interactive_table_functions/)
 
 ## Exam Resources
+* [Midterm Reference Sheet](https://drive.google.com/file/d/1AzbiYWQvOJzexZzjVUmltJgcbZ6XpRRm/view?usp=sharing)
 
 ### Study Guides
 * The midterm study guide will be distributed with the midterm exam.
