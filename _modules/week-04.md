@@ -16,7 +16,7 @@ July 11
 July 12
 : **16**{: .label} Examples
 : _Reading:_ [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
-: **Lab**{: .label .label-lab} Lab 07: A/B Testing
+: **Lab**{: .label .label-lab} [Lab 07: A/B Testing](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab07%2Flab07.ipynb&branch=main)
 
 July 13
 : **17**{: .label} Midterm Review
