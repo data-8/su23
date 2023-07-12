@@ -11,11 +11,12 @@ July 10
 
 July 11
 : **15**{: .label} Causality
-: [Slides](https://docs.google.com/presentation/d/1oxPDFAUByYN0StkEfd0-noQZnCl6lqMDvm5YHwpwn7w/edit#slide=id.SLIDES_API282643126_0) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec15_empty.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/1oxPDFAUByYN0StkEfd0-noQZnCl6lqMDvm5YHwpwn7w/edit#slide=id.SLIDES_API282643126_0) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec15_empty.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [12.2](https://inferentialthinking.com/chapters/12/2/Causality.html)
 
 July 12
 : **16**{: .label} Midterm Review Part 1
+: [Slides](https://docs.google.com/presentation/d/1yccgUilm9fbwP496gzVZ9tbWz8SNRk7mh5RoU3rOvXQ/edit#slide=id.g258b9c7bacc_0_38)
 : _Reading:_ [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 : **Lab**{: .label .label-lab} [Lab 07: A/B Testing](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab07%2Flab07.ipynb&branch=main) (Due 7/12)
 
