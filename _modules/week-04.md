@@ -22,6 +22,7 @@ July 12
 
 July 13
 : **17**{: .label} Midterm Review Part 2
+: [Slides](https://drive.google.com/file/d/1QdLLMF6DkD5-I8mUXM6AOaCmYoWMPrQ4/view?usp=drive_link)
 : [Worksheet](https://drive.google.com/file/d/1avh9EW3BNtUb_9xQKTpkOBSVDhwcolhF/view?usp=drive_link)
 
 July 14
