@@ -5,7 +5,7 @@ class: Berkeley
 
 July 17
 : **18**{: .label} Confidence Intervals
-:[Slides](https://docs.google.com/presentation/d/1rUc27GNizNPzvODtRjA1zcZ9mLrdiHH09_fAvx9PFXg/edit#slide=id.g25952088192_0_76) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec18-empty.ipynb&branch=main) &#8226;
+:[Slides](https://docs.google.com/presentation/d/1rUc27GNizNPzvODtRjA1zcZ9mLrdiHH09_fAvx9PFXg/edit#slide=id.g25952088192_0_76) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec18-completed.ipynb&branch=main) &#8226;
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 : **Lab**{: .label .label-lab} Post-Midterm Review
 
