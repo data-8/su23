@@ -17,7 +17,7 @@ July 18
 July 19
 : **20**{: .label} Center and Spread
 : _Reading:_ [14](https://inferentialthinking.com/chapters/14/Why_the_Mean_Matters.html), [14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html), [14.2](https://inferentialthinking.com/chapters/14/2/Variability.html)
-: **Lab**{: .label .label-lab} [Lab 08: Confidence Intervals](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (Due 7/20)
+: **Lab**{: .label .label-lab} [Lab 08: Confidence Intervals](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab08%2Flab08.ipynb&branch=main) (Due 7/19)
 
 
 July 20
