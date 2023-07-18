@@ -5,12 +5,13 @@ class: Berkeley
 
 July 17
 : **18**{: .label} Confidence Intervals
-: [Slides](https://docs.google.com/presentation/d/1rUc27GNizNPzvODtRjA1zcZ9mLrdiHH09_fAvx9PFXg/edit#slide=id.g25952088192_0_76) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec18-completed.ipynb&branch=main) &#8226;
+: [Slides](https://docs.google.com/presentation/d/1rUc27GNizNPzvODtRjA1zcZ9mLrdiHH09_fAvx9PFXg/edit#slide=id.g25952088192_0_76) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec18-completed.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [13.1](https://inferentialthinking.com/chapters/13/1/Percentiles.html), [13.2](https://inferentialthinking.com/chapters/13/2/Bootstrap.html)
 : **Lab**{: .label .label-lab} Post-Midterm Review
 
 July 18
 : **19**{: .label} Interpreting Confidence
+: [Slides](https://docs.google.com/presentation/d/1WBiNiTX83_1Ucj8IvKJ7GstVGclzQziNJg2Wg91YZFM/edit) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec19-completed.ipynb&branch=main)
 : _Reading:_ [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 : **Homework**{: .label .label-homework} Homework 07 (Due 7/21)
 
