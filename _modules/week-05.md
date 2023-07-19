@@ -13,7 +13,7 @@ July 18
 : **19**{: .label} Interpreting Confidence
 : [Slides](https://docs.google.com/presentation/d/1WBiNiTX83_1Ucj8IvKJ7GstVGclzQziNJg2Wg91YZFM/edit) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec19-completed.ipynb&branch=main)
 : _Reading:_ [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
-: **Homework**{: .label .label-homework} Homework 07 (Due 7/21)
+: **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main) (Due 7/21)
 
 July 19
 : **20**{: .label} Center and Spread
