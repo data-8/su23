@@ -24,6 +24,7 @@ July 19
 
 July 20
 : **21**{: .label} The Normal Distribution
+: [Slides](https://docs.google.com/presentation/d/1lQqTj5g57s7iFCwOJcmhfqsJOa050y0RCS0cNFi9m68/edit?usp=sharing) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec21.ipynb&branch=main)
 : _Reading:_ [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 
 July 21
