@@ -29,6 +29,7 @@ July 20
 
 July 21
 : **22**{: .label} Sample Means, Designing Experiments
+: [Slides](https://docs.google.com/presentation/d/1VKdywuxmSO6v6eUDMqXNMI9g_gBn3oHH7BycCu858Es/edit?usp=sharing?) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec22.ipynb&branch=main) 
 : _Reading:_ [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html), [14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)
 
 : **Homework**{: .label .label-homework} Homework 08 (Due 7/25)
