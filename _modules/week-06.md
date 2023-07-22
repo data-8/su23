@@ -6,7 +6,7 @@ class: Berkeley
 July 24
 : **23**{: .label} Correlation
 : _Reading:_ [15](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
-: **Lab**{: .label .label-lab} Lab 09: Sample Means
+: **Lab**{: .label .label-lab} Lab 09: Sample Means (https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab09%2Flab09.ipynb&branch=main) (Due 7/24)
 
 July 25
 : **24**{: .label} Linear Regression
