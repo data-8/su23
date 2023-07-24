@@ -5,6 +5,7 @@ class: Berkeley
 
 July 24
 : **23**{: .label} Correlation
+: [Slides](https://docs.google.com/presentation/d/1-TEq1iVpQlgKFFxgdQ39HvrgHO0CcBbDru7eU4pFa34/edit#slide=id.g25b40cc8891_0_36) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec23-completed.ipynb&branch=main)
 : _Reading:_ [15](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
 : **Lab**{: .label .label-lab} [Lab 09: Sample Means](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab09%2Flab09.ipynb&branch=main) (Due 7/24)
 
