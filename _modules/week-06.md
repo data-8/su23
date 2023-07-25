@@ -11,6 +11,7 @@ July 24
 
 July 25
 : **24**{: .label} Linear Regression
+: [Slides](https://docs.google.com/presentation/d/1jQNhE1-tC2ujPOsZgJF7fEoHjPDwvJwMhsT1FPVE9Tw/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec24.ipynb&branch=main)
 : _Reading:_ [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
 : **Homework**{: .label .label-homework} Homework 09 (Due 7/28)
 
