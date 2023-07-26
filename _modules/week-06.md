@@ -18,6 +18,7 @@ July 25
 
 July 26
 : **25**{: .label} Least Squares
+: [Slides](https://docs.google.com/presentation/d/1KeY_aZQ9ELb2YA8TAVdE0PMq265RpGXsxu7IhYKZniA/edit?usp=sharing) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec25.ipynb&branch=main)
 : _Reading:_ [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
 : **Lab**{: .label .label-lab} [Lab 10: Climate Part 1](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab10%2Flab10.ipynb&branch=main) (Due 7/26)
 
