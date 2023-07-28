@@ -20,6 +20,9 @@ description: >-
 ## Materials
 The student materials can be found [here](https://drive.google.com/drive/u/1/folders/1pi9v2Q_nFxLWmYUEwYRfn5hzo9EEfckn).
 
+## Additional Materials
+Additional materials can be found [here](https://drive.google.com/drive/u/0/folders/1rKCdwJH-rUXvbkRlQNIH5PMq-wW-pnFt)
+
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
 * [Tabular Thinking](https://drive.google.com/file/d/1D9PXUgDLXjFBXZoyGVSKpzk0nKQziDTP/view?usp=sharing)
