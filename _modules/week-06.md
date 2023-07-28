@@ -24,12 +24,13 @@ July 26
 
 July 27
 : **26**{: .label} Residuals
-: [Slides](https://docs.google.com/presentation/d/10BivKtbur-5ueiHf6FHMm_zV8vrkXKmgFZSED1dBEMI/edit?usp=share_link) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec26.ipynb&branch=main)
+: [Slides](https://docs.google.com/presentation/d/10BivKtbur-5ueiHf6FHMm_zV8vrkXKmgFZSED1dBEMI/edit?usp=share_link) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec26.ipynb&branch=main) &#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
 
 
 July 28
 : **27**{: .label} Regression Inference
+: [Slides](https://docs.google.com/presentation/d/1BMFjrQ_bzmPLASUViLcsAcq7y10OoAiLhlSBICiMKmk/edit?usp=sharing) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec27.ipynb&branch=main)
 : _Reading:_ [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
 : **Homework**{: .label .label-homework} Homework 10 (Due 8/1)
 
