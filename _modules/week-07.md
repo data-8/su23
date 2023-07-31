@@ -5,6 +5,7 @@ class: Berkeley
 
 July 31
 : **28**{: .label} Classification
+: [Slides](https://docs.google.com/presentation/d/1n3E4nZ7Ml0TLBd2F37_smfd9Qo5Rfqrooz796JTUnCU/edit#slide=id.g610d9f86d0_0_5) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec28.ipynb&branch=main)
 : _Reading:_ [17](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html)
 : **Lab**{: .label .label-lab} [Lab 11: Climate Part 2](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab11%2Flab11.ipynb&branch=main)
 
