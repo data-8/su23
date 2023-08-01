@@ -19,7 +19,7 @@ August 1
 August 2
 : **30**{: .label} Updating Probabilities
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
-: **Lab**{: .label .label-lab} Lab 12: Regression
+: **Lab**{: .label .label-lab} [Lab 12: Regression](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab12%2Flab12.ipynb&branch=main)
 : **Project**{: .label .label-project} Project 2: Classifying Movies (Due Wed 8/9; Checkpoint Mon 8/7)
 
 August 3
