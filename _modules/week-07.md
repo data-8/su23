@@ -13,7 +13,7 @@ August 1
 : **29**{: .label} Classifiers
 : [Slides](https://docs.google.com/presentation/d/1jLlH07D0f5dxRvxegGaxZ1maqFk0uPoh_YlyIceyQlQ/edit#slide=id.g25d9bed73ba_0_64) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec29.ipynb&branch=main)
 : _Reading:_ [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
-: **Homework**{: .label .label-homework} Homework 11 (Due 8/4)
+: **Homework**{: .label .label-homework} [Homework 11 (Due 8/4)](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Fhw%2Fhw11%2Fhw11.ipynb&branch=main)
 
 
 August 2
