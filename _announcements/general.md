@@ -1,12 +1,11 @@
 ---
-title: Week 6 Announcements
-week: 1
-date: 2023-7-27
+title: Week 7 Announcements
+week: 7
+date: 2023-8-3
 ---
 
-- Homework 9 will be due on Friday 7/28
-- Homework 10 will be released later this week and is due on Tuesday 8/1
-- Office Hours Schedule has changed. View the schedule [here](https://www.data8.org/su23/officehours/)
+- Homework 11 will be due on Friday 8/4
+- Project 2 Checkpoint is due Monday 8/7
 - Kind reminder to keep discussions civil and respectful to both staff members and other students.
 
 {: .fs-5 }
