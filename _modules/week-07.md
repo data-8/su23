@@ -24,8 +24,8 @@ August 2
 : **Project**{: .label .label-project} [Project 2: Classifying Movies](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Fmaterials%2Fproject%2Fproject2%2Fproject2.ipynb&branch=main) (Due Wed 8/9; Checkpoint Mon 8/7)
 
 August 3
-: **31**{: .label} Case Study: Computer Vision (Will Furtado)
+: **31**{: .label} Case Study: Computer Vision ([Will Furtado](https://williamfurtado.com))
 : [Slides](https://docs.google.com/presentation/d/1vYmJjz6h3_aPYGtIQClZOv0pAmIpw8iU0KLaZifiR8E/edit#slide=id.g25df6bbfbe4_0_32) &#8226; [Demo](https://data8.datahub.berkeley.edu/user/kevinmiao/tree/materials-su23/lec/cv_demo/lec32_computer_vision.ipynb)
 
 August 4
-: **32**{: .label} Case Study: Methods for 3D Data Analysis and Visualization (Gabriel Lipkowitz) 
+: **32**{: .label} Case Study: Methods for 3D Data Analysis and Visualization ([Gabriel Lipkowitz](https://gabriel-lipkowitz.com))
