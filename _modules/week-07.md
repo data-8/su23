@@ -21,7 +21,7 @@ August 2
 : [Slides](https://docs.google.com/presentation/d/1DDOJfX7Du5YDCfgNLmBD0BB4xdEqJoahIvV6SAJzTXs/edit#slide=id.g25de2ee9ba5_0_32) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Flec%2Flec30-empty.ipynb&branch=main)&#8226; [Video](https://bcourses.berkeley.edu/courses/1525580/external_tools/78985)
 : _Reading:_ [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 : **Lab**{: .label .label-lab} [Lab 12: Regression](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=retro%2Ftree%2Fmaterials-su23%2Fmaterials%2Flab%2Flab12%2Flab12.ipynb&branch=main)
-: **Project**{: .label .label-project} Project 2: Classifying Movies (Due Wed 8/9; Checkpoint Mon 8/7)
+: **Project**{: .label .label-project} [Project 2: Classifying Movies](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-su23&urlpath=tree%2Fmaterials-su23%2Fmaterials%2Fproject%2Fproject2%2Fproject2.ipynb&branch=main) (Due Wed 8/9; Checkpoint Mon 8/7)
 
 August 3
 : **31**{: .label} Case Study
