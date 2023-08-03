@@ -25,7 +25,7 @@ August 2
 
 August 3
 : **31**{: .label} Case Study: Computer Vision (Will Furtado)
-: [Slides](https://docs.google.com/presentation/d/1vYmJjz6h3_aPYGtIQClZOv0pAmIpw8iU0KLaZifiR8E/edit#slide=id.g25df6bbfbe4_0_32) &#8226; [Demo TBD]()
+: [Slides](https://docs.google.com/presentation/d/1vYmJjz6h3_aPYGtIQClZOv0pAmIpw8iU0KLaZifiR8E/edit#slide=id.g25df6bbfbe4_0_32) &#8226; [Demo](https://data8.datahub.berkeley.edu/user/kevinmiao/tree/materials-su23/lec/cv_demo/lec32_computer_vision.ipynb)
 
 August 4
 : **32**{: .label} Case Study: Methods for 3D Data Analysis and Visualization (Gabriel Lipkowitz) 
