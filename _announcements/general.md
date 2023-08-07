@@ -1,7 +1,7 @@
 ---
-title: Week 7 Announcements
-week: 7
-date: 2023-8-3
+title: Week 8 Announcements
+week: 8
+date: 2023-8-7
 ---
 
 - Project 2 is due Wednesday 8/9
